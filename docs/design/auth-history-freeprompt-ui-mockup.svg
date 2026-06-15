@@ -1,0 +1,184 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#F3F6F5"/>
+  <rect x="24" y="24" width="1392" height="852" rx="18" fill="#FFFFFF" stroke="#DDE7E5"/>
+
+  <!-- Left sidebar -->
+  <rect x="24" y="24" width="330" height="852" rx="18" fill="#FFFFFF"/>
+  <line x1="354" y1="42" x2="354" y2="858" stroke="#DDE7E5"/>
+  <rect x="50" y="52" width="44" height="44" rx="10" fill="#0F9F9A"/>
+  <text x="72" y="82" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="22" font-weight="700" fill="white">灵</text>
+  <text x="108" y="70" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#152321">灵感绘图</text>
+  <text x="108" y="91" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#6B7D79">一句话生成你的专属图片</text>
+
+  <rect x="50" y="118" width="128" height="34" rx="8" fill="#0F9F9A"/>
+  <text x="114" y="140" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="600" fill="white">登录</text>
+  <rect x="186" y="118" width="128" height="34" rx="8" fill="#F2F6F5" stroke="#DDE7E5"/>
+  <text x="250" y="140" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="600" fill="#243330">注册</text>
+  <text x="50" y="174" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">游客可直接生成，本地保存历史</text>
+
+  <rect x="50" y="198" width="264" height="38" rx="10" fill="#EEF4F3"/>
+  <rect x="54" y="202" width="128" height="30" rx="8" fill="#FFFFFF" stroke="#D5E2E0"/>
+  <text x="118" y="222" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#102A28">模板改图</text>
+  <text x="248" y="222" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#6B7D79">自由提示词</text>
+
+  <rect x="50" y="254" width="264" height="40" rx="10" fill="#F8FAFA" stroke="#DDE7E5"/>
+  <circle cx="70" cy="274" r="6" stroke="#8BA09C" stroke-width="2"/>
+  <line x1="74.5" y1="278.5" x2="80" y2="284" stroke="#8BA09C" stroke-width="2" stroke-linecap="round"/>
+  <text x="92" y="279" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#8BA09C">搜索历史聊天</text>
+
+  <text x="50" y="324" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" font-weight="700" letter-spacing="2" fill="#6C807C">历史聊天</text>
+  <text x="294" y="324" text-anchor="end" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#91A4A0">12</text>
+
+  <rect x="50" y="340" width="264" height="68" rx="10" fill="#E8F7F5" stroke="#75CFC9"/>
+  <rect x="62" y="352" width="44" height="44" rx="8" fill="#17232F"/>
+  <circle cx="84" cy="374" r="15" fill="#FF9B43"/>
+  <path d="M74 366L80 354L86 366M87 366L94 354L98 368" stroke="#F9C27E" stroke-width="3" stroke-linecap="round"/>
+  <text x="118" y="364" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="14" font-weight="700" fill="#132A28">橘猫赛博朋克头像</text>
+  <text x="118" y="385" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#5E7873">刚刚 · 模板 · 3 张图</text>
+  <text x="118" y="401" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#78908B">背景改成海边日落...</text>
+
+  <rect x="50" y="418" width="264" height="60" rx="10" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="62" y="430" width="36" height="36" rx="7" fill="#E8D6C8"/>
+  <rect x="69" y="440" width="22" height="5" rx="2.5" fill="#9B3F2E"/>
+  <rect x="69" y="450" width="16" height="5" rx="2.5" fill="#0F9F9A"/>
+  <text x="110" y="442" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">小红书封面改色</text>
+  <text x="110" y="463" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">昨天 · 自由 · 1 张图</text>
+
+  <rect x="50" y="488" width="264" height="60" rx="10" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="62" y="500" width="36" height="36" rx="7" fill="#D8E8F5"/>
+  <circle cx="80" cy="518" r="11" fill="#23495C"/>
+  <text x="110" y="512" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">产品图柔光背景</text>
+  <text x="110" y="533" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">周二 · 模板 · 2 张图</text>
+
+  <rect x="50" y="568" width="264" height="60" rx="10" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="62" y="580" width="36" height="36" rx="7" fill="#EFE6D7"/>
+  <rect x="70" y="592" width="21" height="5" rx="2.5" fill="#1A2E2A"/>
+  <rect x="70" y="602" width="16" height="5" rx="2.5" fill="#D98B57"/>
+  <text x="110" y="592" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">节日祝福海报</text>
+  <text x="110" y="613" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">周一 · 模板 · 4 张图</text>
+
+  <rect x="50" y="638" width="264" height="60" rx="10" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="62" y="650" width="36" height="36" rx="7" fill="#E4F0E6"/>
+  <circle cx="80" cy="668" r="11" fill="#52A66B"/>
+  <text x="110" y="662" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">宠物表情包</text>
+  <text x="110" y="683" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">6 月 8 日 · 自由 · 6 张图</text>
+
+  <rect x="50" y="728" width="264" height="100" rx="12" fill="#EEF7F6" stroke="#D5E8E5" stroke-dasharray="5 5"/>
+  <text x="182" y="768" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#46635E">历史聊天放在这里</text>
+  <text x="182" y="793" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">登录后跨设备同步，游客保存在本机</text>
+
+  <!-- Center area -->
+  <rect x="354" y="24" width="762" height="852" fill="#FAFCFC"/>
+  <line x1="354" y1="100" x2="1116" y2="100" stroke="#DDE7E5"/>
+  <text x="386" y="65" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="20" font-weight="800" fill="#102A28">橘猫赛博朋克头像</text>
+  <circle cx="386" cy="84" r="4" fill="#2FB879"/>
+  <text x="398" y="88" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#64827D">已保存到云端 · 3 条消息</text>
+  <rect x="976" y="52" width="108" height="34" rx="8" fill="#FFFFFF" stroke="#D5E2E0"/>
+  <text x="1030" y="74" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">新建聊天</text>
+
+  <rect x="386" y="126" width="698" height="116" rx="12" fill="#FFFFFF" stroke="#DDE7E5"/>
+  <rect x="402" y="142" width="120" height="84" rx="10" fill="#111D2B"/>
+  <circle cx="462" cy="184" r="30" fill="#39AEB9"/>
+  <path d="M443 171L452 152L461 171M463 171L475 152L482 173" stroke="#A9EEF2" stroke-width="5" stroke-linecap="round"/>
+  <text x="546" y="158" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="16" font-weight="800" fill="#162622">当前模板：赛博朋克头像</text>
+  <text x="546" y="184" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#6B7D79">保留模板风格，用一句话修改主体、场景、比例或氛围。</text>
+  <rect x="546" y="199" width="50" height="22" rx="11" fill="#EDF8F7"/>
+  <text x="571" y="214" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#0D7F7B">头像</text>
+  <rect x="604" y="199" width="50" height="22" rx="11" fill="#EDF8F7"/>
+  <text x="629" y="214" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#0D7F7B">霓虹</text>
+  <rect x="662" y="199" width="58" height="22" rx="11" fill="#EDF8F7"/>
+  <text x="691" y="214" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#0D7F7B">电影感</text>
+  <rect x="940" y="192" width="124" height="34" rx="8" fill="#F8FAFA" stroke="#DDE7E5"/>
+  <text x="1002" y="214" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">查看原始提示词</text>
+
+  <text x="985" y="284" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#5D716D">你</text>
+  <rect x="614" y="298" width="470" height="54" rx="14" fill="#0F9F9A"/>
+  <text x="638" y="331" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="15" font-weight="600" fill="white">把主角换成橘猫，背景改成海边日落</text>
+
+  <text x="386" y="392" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#5D716D">灵感绘图</text>
+  <rect x="386" y="410" width="520" height="350" rx="14" fill="#FFFFFF" stroke="#DDE7E5"/>
+  <rect x="410" y="434" width="472" height="236" rx="12" fill="#142232"/>
+  <rect x="410" y="434" width="472" height="236" rx="12" fill="url(#sky)"/>
+  <circle cx="646" cy="548" r="75" fill="#FF963B"/>
+  <path d="M593 511L621 453L649 511M651 511L683 453L704 516" stroke="#FFC06D" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="619" cy="546" r="8" fill="#102333"/>
+  <circle cx="674" cy="546" r="8" fill="#102333"/>
+  <path d="M637 574C650 584 663 584 676 574" stroke="#102333" stroke-width="5" stroke-linecap="round"/>
+  <rect x="432" y="468" width="72" height="8" rx="4" fill="#1EE2D3" opacity="0.75"/>
+  <rect x="774" y="486" width="76" height="8" rx="4" fill="#FF63A8" opacity="0.75"/>
+  <rect x="732" y="626" width="105" height="8" rx="4" fill="#FBC44B" opacity="0.8"/>
+  <rect x="410" y="692" width="100" height="34" rx="8" fill="#F4F8F7" stroke="#DDE7E5"/>
+  <text x="460" y="714" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">下载图片</text>
+  <rect x="520" y="692" width="112" height="34" rx="8" fill="#F4F8F7" stroke="#DDE7E5"/>
+  <text x="576" y="714" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#243330">复制提示词</text>
+  <rect x="642" y="692" width="112" height="34" rx="8" fill="#EDF8F7" stroke="#B6E6E1"/>
+  <text x="698" y="714" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#0D7F7B">继续修改</text>
+  <text x="410" y="746" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">最终提示词 · 已优化 · 点击展开</text>
+
+  <rect x="354" y="776" width="762" height="100" fill="#FFFFFF"/>
+  <line x1="354" y1="776" x2="1116" y2="776" stroke="#DDE7E5"/>
+  <rect x="386" y="794" width="72" height="26" rx="13" fill="#F1F6F5"/>
+  <text x="422" y="812" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#5F7671">更可爱</text>
+  <rect x="466" y="794" width="56" height="26" rx="13" fill="#F1F6F5"/>
+  <text x="494" y="812" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#5F7671">9:16</text>
+  <rect x="530" y="794" width="72" height="26" rx="13" fill="#F1F6F5"/>
+  <text x="566" y="812" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#5F7671">电影感</text>
+  <rect x="610" y="794" width="84" height="26" rx="13" fill="#F1F6F5"/>
+  <text x="652" y="812" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#5F7671">不要文字</text>
+  <rect x="386" y="828" width="596" height="34" rx="10" fill="#F8FAFA" stroke="#DDE7E5"/>
+  <text x="406" y="850" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#8BA09C">说一句你想怎么改，或切到自由提示词直接描述画面</text>
+  <rect x="994" y="828" width="90" height="34" rx="9" fill="#0F9F9A"/>
+  <text x="1039" y="850" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="white">生成图片</text>
+
+  <!-- Right panel -->
+  <rect x="1116" y="24" width="300" height="852" rx="18" fill="#F7FAF9"/>
+  <line x1="1116" y1="42" x2="1116" y2="858" stroke="#DDE7E5"/>
+  <text x="1144" y="66" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="18" font-weight="800" fill="#102A28">模板库</text>
+  <text x="1144" y="88" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">选择风格模板，或切到自由提示词</text>
+
+  <rect x="1144" y="112" width="244" height="38" rx="10" fill="#FFFFFF" stroke="#DDE7E5"/>
+  <circle cx="1164" cy="131" r="6" stroke="#8BA09C" stroke-width="2"/>
+  <line x1="1168.5" y1="135.5" x2="1174" y2="141" stroke="#8BA09C" stroke-width="2" stroke-linecap="round"/>
+  <text x="1186" y="136" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" fill="#8BA09C">搜索头像、海报、商品图</text>
+
+  <rect x="1144" y="168" width="244" height="132" rx="12" fill="#FFFFFF" stroke="#75CFC9"/>
+  <rect x="1158" y="182" width="216" height="70" rx="10" fill="#142232"/>
+  <circle cx="1266" cy="217" r="26" fill="#39AEB9"/>
+  <path d="M1247 203L1256 184L1265 203M1267 203L1278 184L1285 205" stroke="#A9EEF2" stroke-width="5" stroke-linecap="round"/>
+  <text x="1158" y="274" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="14" font-weight="800" fill="#243330">赛博朋克头像</text>
+  <text x="1158" y="292" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#78908B">霓虹 · 头像 · 电影感</text>
+
+  <rect x="1144" y="316" width="244" height="132" rx="12" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="1158" y="330" width="216" height="70" rx="10" fill="#E8D6C8"/>
+  <rect x="1182" y="352" width="92" height="10" rx="5" fill="#9B3F2E"/>
+  <rect x="1182" y="373" width="62" height="10" rx="5" fill="#0F9F9A"/>
+  <text x="1158" y="422" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="14" font-weight="800" fill="#243330">高级字体海报</text>
+  <text x="1158" y="440" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#78908B">海报 · 字体 · 质感</text>
+
+  <rect x="1144" y="464" width="244" height="132" rx="12" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="1158" y="478" width="216" height="70" rx="10" fill="#D8E8F5"/>
+  <circle cx="1266" cy="513" r="25" fill="#23495C"/>
+  <rect x="1218" y="530" width="96" height="9" rx="4.5" fill="#FFFFFF" opacity="0.5"/>
+  <text x="1158" y="570" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="14" font-weight="800" fill="#243330">产品柔光图</text>
+  <text x="1158" y="588" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#78908B">商品图 · 柔光 · 电商</text>
+
+  <rect x="1144" y="612" width="244" height="132" rx="12" fill="#FFFFFF" stroke="#E3EBE9"/>
+  <rect x="1158" y="626" width="216" height="70" rx="10" fill="#F0E4D7"/>
+  <circle cx="1212" cy="661" r="23" fill="#D98B57"/>
+  <rect x="1248" y="649" width="70" height="8" rx="4" fill="#1A2E2A"/>
+  <rect x="1248" y="668" width="52" height="8" rx="4" fill="#0F9F9A"/>
+  <text x="1158" y="718" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="14" font-weight="800" fill="#243330">节日祝福海报</text>
+  <text x="1158" y="736" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="11" fill="#78908B">节日 · 海报 · 温暖</text>
+
+  <rect x="1144" y="762" width="244" height="66" rx="12" fill="#EEF7F6" stroke="#D5E8E5" stroke-dasharray="5 5"/>
+  <text x="1266" y="789" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="13" font-weight="700" fill="#46635E">右侧只放模板</text>
+  <text x="1266" y="812" text-anchor="middle" font-family="PingFang SC, Microsoft YaHei, Arial" font-size="12" fill="#78908B">生成记录归入左侧历史聊天</text>
+
+  <defs>
+    <linearGradient id="sky" x1="410" y1="434" x2="882" y2="670" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101929"/>
+      <stop offset="0.55" stop-color="#1A3A4B"/>
+      <stop offset="1" stop-color="#E57854"/>
+    </linearGradient>
+  </defs>
+</svg>

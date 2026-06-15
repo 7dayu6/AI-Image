@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  --background: #f4f7fb;
+  --panel: #ffffff;
+  --panel-muted: #eef4f7;
+  --border: #dbe5ec;
+  --text: #0f172a;
+  --text-muted: #64748b;
+  --accent: #009688;
+  --accent-strong: #00796f;
+  --accent-soft: #e6f7f5;
+  --ai-accent: #6366f1;
+  --focus-ring: #14b8a6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background:
+    linear-gradient(180deg, #f9fbfd 0%, var(--background) 42%, #eef4f8 100%);
+  color: var(--text);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+:where(button, a, input, textarea, summary):focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--focus-ring) 42%, transparent);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--accent) 20%, white);
+  color: var(--text);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
