@@ -8,5 +8,5 @@ coverage/
 .env
 .env*.local
 supabase/.temp/
-docs/superpowers/
+docs/
 supabase/
